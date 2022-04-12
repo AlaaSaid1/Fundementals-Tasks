@@ -1,0 +1,21 @@
+G:\BIM Application Development\Tasks\New folder\Strings\Strings\bin\Debug\Strings.exe.config
+G:\BIM Application Development\Tasks\New folder\Strings\Strings\bin\Debug\Strings.exe
+G:\BIM Application Development\Tasks\New folder\Strings\Strings\bin\Debug\Strings.pdb
+G:\BIM Application Development\Tasks\New folder\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+G:\BIM Application Development\Tasks\New folder\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+G:\BIM Application Development\Tasks\New folder\Strings\Strings\obj\Debug\Strings.exe
+G:\BIM Application Development\Tasks\New folder\Strings\Strings\obj\Debug\Strings.pdb
+G:\BIM Application Development\Tasks\String_Tasks\Strings\Strings\bin\Debug\Strings.exe.config
+G:\BIM Application Development\Tasks\String_Tasks\Strings\Strings\bin\Debug\Strings.exe
+G:\BIM Application Development\Tasks\String_Tasks\Strings\Strings\bin\Debug\Strings.pdb
+G:\BIM Application Development\Tasks\String_Tasks\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+G:\BIM Application Development\Tasks\String_Tasks\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+G:\BIM Application Development\Tasks\String_Tasks\Strings\Strings\obj\Debug\Strings.exe
+G:\BIM Application Development\Tasks\String_Tasks\Strings\Strings\obj\Debug\Strings.pdb
+G:\BIM Application Development\Tasks\C# Fundementals tasks\String_Tasks\Strings\Strings\bin\Debug\Strings.exe.config
+G:\BIM Application Development\Tasks\C# Fundementals tasks\String_Tasks\Strings\Strings\bin\Debug\Strings.exe
+G:\BIM Application Development\Tasks\C# Fundementals tasks\String_Tasks\Strings\Strings\bin\Debug\Strings.pdb
+G:\BIM Application Development\Tasks\C# Fundementals tasks\String_Tasks\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+G:\BIM Application Development\Tasks\C# Fundementals tasks\String_Tasks\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+G:\BIM Application Development\Tasks\C# Fundementals tasks\String_Tasks\Strings\Strings\obj\Debug\Strings.exe
+G:\BIM Application Development\Tasks\C# Fundementals tasks\String_Tasks\Strings\Strings\obj\Debug\Strings.pdb

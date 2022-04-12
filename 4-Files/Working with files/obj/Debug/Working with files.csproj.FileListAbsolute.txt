@@ -1,0 +1,7 @@
+G:\BIM Application Development\Tasks\Files\Working with files\Working with files\bin\Debug\Working with files.exe.config
+G:\BIM Application Development\Tasks\Files\Working with files\Working with files\bin\Debug\Working with files.exe
+G:\BIM Application Development\Tasks\Files\Working with files\Working with files\bin\Debug\Working with files.pdb
+G:\BIM Application Development\Tasks\Files\Working with files\Working with files\obj\Debug\Working with files.csprojAssemblyReference.cache
+G:\BIM Application Development\Tasks\Files\Working with files\Working with files\obj\Debug\Working with files.csproj.CoreCompileInputs.cache
+G:\BIM Application Development\Tasks\Files\Working with files\Working with files\obj\Debug\Working with files.exe
+G:\BIM Application Development\Tasks\Files\Working with files\Working with files\obj\Debug\Working with files.pdb

@@ -1,0 +1,21 @@
+G:\BIM Application Development\Tasks\C# Fundementals\Fundemntals\Fundemntals\bin\Debug\Fundemntals.exe.config
+G:\BIM Application Development\Tasks\C# Fundementals\Fundemntals\Fundemntals\bin\Debug\Fundemntals.exe
+G:\BIM Application Development\Tasks\C# Fundementals\Fundemntals\Fundemntals\bin\Debug\Fundemntals.pdb
+G:\BIM Application Development\Tasks\C# Fundementals\Fundemntals\Fundemntals\obj\Debug\Fundemntals.csprojAssemblyReference.cache
+G:\BIM Application Development\Tasks\C# Fundementals\Fundemntals\Fundemntals\obj\Debug\Fundemntals.csproj.CoreCompileInputs.cache
+G:\BIM Application Development\Tasks\C# Fundementals\Fundemntals\Fundemntals\obj\Debug\Fundemntals.exe
+G:\BIM Application Development\Tasks\C# Fundementals\Fundemntals\Fundemntals\obj\Debug\Fundemntals.pdb
+G:\BIM Application Development\Tasks\C# Fundementals tasks\C# Fundementals\Fundemntals\Fundemntals\bin\Debug\Fundemntals.exe.config
+G:\BIM Application Development\Tasks\C# Fundementals tasks\C# Fundementals\Fundemntals\Fundemntals\bin\Debug\Fundemntals.exe
+G:\BIM Application Development\Tasks\C# Fundementals tasks\C# Fundementals\Fundemntals\Fundemntals\bin\Debug\Fundemntals.pdb
+G:\BIM Application Development\Tasks\C# Fundementals tasks\C# Fundementals\Fundemntals\Fundemntals\obj\Debug\Fundemntals.csprojAssemblyReference.cache
+G:\BIM Application Development\Tasks\C# Fundementals tasks\C# Fundementals\Fundemntals\Fundemntals\obj\Debug\Fundemntals.csproj.CoreCompileInputs.cache
+G:\BIM Application Development\Tasks\C# Fundementals tasks\C# Fundementals\Fundemntals\Fundemntals\obj\Debug\Fundemntals.exe
+G:\BIM Application Development\Tasks\C# Fundementals tasks\C# Fundementals\Fundemntals\Fundemntals\obj\Debug\Fundemntals.pdb
+G:\BIM Application Development\Tasks\To_Deliver_Section1_Tasks\1-Fundementals\Fundemntals\bin\Debug\Fundemntals.exe.config
+G:\BIM Application Development\Tasks\To_Deliver_Section1_Tasks\1-Fundementals\Fundemntals\bin\Debug\Fundemntals.exe
+G:\BIM Application Development\Tasks\To_Deliver_Section1_Tasks\1-Fundementals\Fundemntals\bin\Debug\Fundemntals.pdb
+G:\BIM Application Development\Tasks\To_Deliver_Section1_Tasks\1-Fundementals\Fundemntals\obj\Debug\Fundemntals.csprojAssemblyReference.cache
+G:\BIM Application Development\Tasks\To_Deliver_Section1_Tasks\1-Fundementals\Fundemntals\obj\Debug\Fundemntals.csproj.CoreCompileInputs.cache
+G:\BIM Application Development\Tasks\To_Deliver_Section1_Tasks\1-Fundementals\Fundemntals\obj\Debug\Fundemntals.exe
+G:\BIM Application Development\Tasks\To_Deliver_Section1_Tasks\1-Fundementals\Fundemntals\obj\Debug\Fundemntals.pdb
